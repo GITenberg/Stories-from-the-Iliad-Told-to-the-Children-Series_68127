@@ -1,0 +1,40 @@
+_repo: Stories-from-the-Iliad-Told-to-the-Children-Series_68127
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Robinson, W. Heath (William Heath)
+    alias: Robinson, William Heath
+    birthdate: 1872
+    deathdate: 1944
+    gutenberg_agent_id: '34723'
+    url: http://www.gutenberg.org/2009/agents/34723
+    wikipedia: https://en.wikipedia.org/wiki/W._Heath_Robinson
+creator:
+  author:
+    agent_name: Lang, Jean
+    alias: Lang, Jeanie
+    birthdate: 1867
+    deathdate: 1932
+    gutenberg_agent_id: '26717'
+    url: http://www.gutenberg.org/2009/agents/26717
+description: ''
+gutenberg_issued: '2022-05-19'
+identifiers:
+  gutenberg: '68127'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uva.x000779964&view=1up&seq=9&skin=2021
+pgterms:marc905: 20220422164945lang
+pgterms:marc906: '1907'
+pgterms:marc907: gb
+production_note: D A Alexander and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+  Thank you to the librarians at Brigham Young University for providing high quality
+  scans of the cover.
+publication_note: United Kingdom :T. C. & E. C. Jack,1907.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Stories from the Iliad: Told to the Children Series'
+url: http://www.gutenberg.org/ebooks/68127
